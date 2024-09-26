@@ -25,14 +25,17 @@ Below are visual representations of both Jen Kramer's example and my implementat
 To view the website locally, follow these steps:
 
 1. Clone the repository or download the files.
-   ```
-   git clone https://github.com/BhoomiGohil/html-css-float-cards.git
-   cd html-css-float-cards
-   ```
+
+```
+git clone https://github.com/BhoomiGohil/Float-CardsUI.git
+cd Float-CardsUI
+```
+
 2. Open the `Index.html` file in your web browser.
-   ```
-   open Index.html
-   ```
+
+```
+open Index.html
+```
 
 OR
 
