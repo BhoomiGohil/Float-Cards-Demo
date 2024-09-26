@@ -21,8 +21,8 @@ To view the website locally, follow these steps:
 1. Clone the repository or download the files.
 
 ```
-git clone https://github.com/BhoomiGohil/Float-CardsUI.git
-cd Float-CardsUI
+git clone https://github.com/BhoomiGohil/Float-Cards-Demo.git
+cd Float-Cards-Demo
 ```
 
 2. Open the `Index.html` file in your web browser.
