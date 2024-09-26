@@ -10,13 +10,7 @@ This project features a simple responsive webpage created using CSS Float and me
 
 ## Visual Design
 
-Below are visual representations of both Jen Kramer's example and my implementation:
-
-### Jen Kramer's Webpage Example
-
-![Jen Kramer's Example](Online Course.png)
-
-### My Webpage
+Below are visual representations of my implementation:
 
 ![My Webpage](Mine.png)
 
